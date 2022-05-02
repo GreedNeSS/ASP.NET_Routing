@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreatingRouteConstraint", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependencyInjection_in_Endpoints", "DependencyInjection_in_Endpoints\DependencyInjection_in_Endpoints.csproj", "{F45BAB74-4537-4B3A-BC20-D6668363DF20}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QueryMatch", "QueryMatch\QueryMatch.csproj", "{FC588249-4ACE-48A5-BE79-F28BF28EF929}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{F45BAB74-4537-4B3A-BC20-D6668363DF20}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F45BAB74-4537-4B3A-BC20-D6668363DF20}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F45BAB74-4537-4B3A-BC20-D6668363DF20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC588249-4ACE-48A5-BE79-F28BF28EF929}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC588249-4ACE-48A5-BE79-F28BF28EF929}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC588249-4ACE-48A5-BE79-F28BF28EF929}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC588249-4ACE-48A5-BE79-F28BF28EF929}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
