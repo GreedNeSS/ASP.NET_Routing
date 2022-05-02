@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RouteParameters", "RoutePar
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RouteConstraint", "RouteConstraint\RouteConstraint.csproj", "{52758631-51E9-490F-9127-3DFA994EAB76}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreatingRouteConstraint", "CreatingRouteConstraint\CreatingRouteConstraint.csproj", "{1FD58707-0FF7-4C1D-9326-F1BD0C3A3DD9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{52758631-51E9-490F-9127-3DFA994EAB76}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{52758631-51E9-490F-9127-3DFA994EAB76}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{52758631-51E9-490F-9127-3DFA994EAB76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FD58707-0FF7-4C1D-9326-F1BD0C3A3DD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FD58707-0FF7-4C1D-9326-F1BD0C3A3DD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FD58707-0FF7-4C1D-9326-F1BD0C3A3DD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FD58707-0FF7-4C1D-9326-F1BD0C3A3DD9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
