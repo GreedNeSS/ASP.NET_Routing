@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RouteConstraint", "RouteCon
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreatingRouteConstraint", "CreatingRouteConstraint\CreatingRouteConstraint.csproj", "{1FD58707-0FF7-4C1D-9326-F1BD0C3A3DD9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependencyInjection_in_Endpoints", "DependencyInjection_in_Endpoints\DependencyInjection_in_Endpoints.csproj", "{F45BAB74-4537-4B3A-BC20-D6668363DF20}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{1FD58707-0FF7-4C1D-9326-F1BD0C3A3DD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1FD58707-0FF7-4C1D-9326-F1BD0C3A3DD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1FD58707-0FF7-4C1D-9326-F1BD0C3A3DD9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F45BAB74-4537-4B3A-BC20-D6668363DF20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F45BAB74-4537-4B3A-BC20-D6668363DF20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F45BAB74-4537-4B3A-BC20-D6668363DF20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F45BAB74-4537-4B3A-BC20-D6668363DF20}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
