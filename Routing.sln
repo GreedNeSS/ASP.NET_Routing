@@ -5,15 +5,17 @@ VisualStudioVersion = 17.1.32228.430
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Endpoints_MapMethod", "Endpoints_MapMethod\Endpoints_MapMethod.csproj", "{DBEB9E71-EE3E-40F6-AED8-FA0761D4D593}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RouteParameters", "RouteParameters\RouteParameters.csproj", "{21ADADD5-FAE2-454D-8C8D-0316B5BE9B20}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RouteParameters", "RouteParameters\RouteParameters.csproj", "{21ADADD5-FAE2-454D-8C8D-0316B5BE9B20}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RouteConstraint", "RouteConstraint\RouteConstraint.csproj", "{52758631-51E9-490F-9127-3DFA994EAB76}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RouteConstraint", "RouteConstraint\RouteConstraint.csproj", "{52758631-51E9-490F-9127-3DFA994EAB76}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreatingRouteConstraint", "CreatingRouteConstraint\CreatingRouteConstraint.csproj", "{1FD58707-0FF7-4C1D-9326-F1BD0C3A3DD9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CreatingRouteConstraint", "CreatingRouteConstraint\CreatingRouteConstraint.csproj", "{1FD58707-0FF7-4C1D-9326-F1BD0C3A3DD9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependencyInjection_in_Endpoints", "DependencyInjection_in_Endpoints\DependencyInjection_in_Endpoints.csproj", "{F45BAB74-4537-4B3A-BC20-D6668363DF20}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DependencyInjection_in_Endpoints", "DependencyInjection_in_Endpoints\DependencyInjection_in_Endpoints.csproj", "{F45BAB74-4537-4B3A-BC20-D6668363DF20}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QueryMatch", "QueryMatch\QueryMatch.csproj", "{FC588249-4ACE-48A5-BE79-F28BF28EF929}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QueryMatch", "QueryMatch\QueryMatch.csproj", "{FC588249-4ACE-48A5-BE79-F28BF28EF929}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EndpointWithMiddleware", "EndpointWithMiddleware\EndpointWithMiddleware.csproj", "{B35A612B-9BAA-4E7A-88CC-674DF17E8D3F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{FC588249-4ACE-48A5-BE79-F28BF28EF929}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FC588249-4ACE-48A5-BE79-F28BF28EF929}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FC588249-4ACE-48A5-BE79-F28BF28EF929}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B35A612B-9BAA-4E7A-88CC-674DF17E8D3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B35A612B-9BAA-4E7A-88CC-674DF17E8D3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B35A612B-9BAA-4E7A-88CC-674DF17E8D3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B35A612B-9BAA-4E7A-88CC-674DF17E8D3F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
